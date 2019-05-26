@@ -1,4 +1,9 @@
 patch:
+  patch:
+    punctuator/full_shape:
+      "/": "、"
+    punctuator/half_shape:
+      "/": "、"
   switches:
     - name: ascii_mode
       reset: 0

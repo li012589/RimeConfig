@@ -28,11 +28,13 @@ patch:
       # hilited_candidate_back_color: 0xcb5d00
       hilited_candidate_label_color: 0xefefef
       comment_text_color: 0xdedddd
-
+  
+  # different behaviors under different apps
+  
   "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
+  "app_options/com.runningwithcrayons.Alfred-2/ascii_mode": true
   "com.sublimetext.3/ascii_mode": true
   "com.apple.Finder/ascii_mode": true
   "com.calibre-ebook.ebook-viewer/ascii_mode": true
   "com.calibre-ebook.ebook-edit/ascii_mode": true
-  "net.kovidgoyal.calibre/ascii_mode": true
-  "com.reederapp.rkit2.mac/ascii_mode": true
+  "app_options/com.apple.Xcode:ascii_mode": true

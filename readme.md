@@ -16,5 +16,5 @@ By default,
 - use half angle punctuations;
 - use simplified Chinese characters.
 
-But this can be changed using **ctrl+`**.
+But this can be changed using **ctrl+`**. And **L-Shift** to switch between English and Chinese.
 

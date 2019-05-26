@@ -1,3 +1,5 @@
 build/*
 *.userdb/*
 user.yaml
+trash/*
+sync/*
